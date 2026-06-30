@@ -4,3 +4,4 @@ albumentations
 numpy
 Pillow
 matplotlib
+seaborn
