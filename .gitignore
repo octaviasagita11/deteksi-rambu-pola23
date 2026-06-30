@@ -1,0 +1,11 @@
+# Mengabaikan virtual environment kamu
+.env/
+env/
+venv/
+
+# Mengabaikan cache python
+__pycache__/
+*.pyc
+
+# Mengabaikan file model yang ukurannya 160MB (karena di atas limit GitHub)
+model_rambu_full.pth

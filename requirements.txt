@@ -1,0 +1,6 @@
+streamlit
+torch
+albumentations
+numpy
+Pillow
+matplotlib
